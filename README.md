@@ -3,8 +3,8 @@
     <br><b>Video Stream is an Open-Source Telegram Bot project that's allow you to play Video & Music trough the Telegram Group Video Chat</b><br>
 </p>
 <p align="center">
-    <a href="https://www.codefactor.io/repository/github/RahulSingh1025/RYTHM"> <img src="https://www.codefactor.io/repository/github/RahulSingh1025/RYTHM/badge?color=red&logo=codacy&style=flat-square" alt="CodeFactor" /></a>
-    <a href="https://app.codacy.com/gh/RahulSingh1025/RYTHM/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a>
+    <a href="https://www.codefactor.io/repository/github/PRONOI/ALONEexVC"> <img src="https://www.codefactor.io/repository/github/PRONOI/ALONEexVC/badge?color=red&logo=codacy&style=flat-square" alt="CodeFactor" /></a>
+    <a href="https://app.codacy.com/gh/PRONOI/ALONEexVC/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a>
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
     <a href="https://github.com/PRONOI/ALONEexVC/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a><br>
     <a href="https://github.com/PRONOI/ALONEexVC"> <img src="https://img.shields.io/github/repo-size/RahulSingh1025/RYTHM?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
