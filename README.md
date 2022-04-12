@@ -67,8 +67,8 @@ root@linux~ $ python3 main.py
 
 ## Contact & Support
 
-<a href="https://t.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/Support-%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/anonymous_was_bot"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ALONE_SUPPORT"><img src="https://img.shields.io/badge/Support-%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/ALONExBOY"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## License
 
@@ -76,6 +76,5 @@ Distributed under the [GNU General Public License v3.0 License](https://github.c
 
 ## Credits
 
-- [Anonymous](https://github.com/AnonymousBoy1025) ``Dev``
-- [Laky's](https://github.com/Laky-64) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
-- [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
+- [Alone](https://github.com/ALONExPROOI) ``Dev``
+- [AMAN](https://github.com/AMANTYA1) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
