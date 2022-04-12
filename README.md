@@ -35,7 +35,7 @@
 > Always remember to use good API combo else your account could be deleted.
 
 <h4> Generate Session via Repl.it: </h4>    
-<p><a href="https://replit.com/@levinalab/Session-Generator?lite=1&outputonly=1#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@PRONOI/AlONEexSTRING?v=1"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 </details>
 
@@ -46,7 +46,7 @@
 > Heroku has blacklisted this repository, That's why heroku aur uski maa ka bharosha
 
 <h4>Click the button below to deploy Bot on Heroku!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/PRONOI/RYTHM"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/PRONOI/ALONEexVC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 </details>
 
