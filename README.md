@@ -76,5 +76,5 @@ Distributed under the [GNU General Public License v3.0 License](https://github.c
 
 ## Credits
 
-- [Alone](https://github.com/ALONExPROOI) ``Dev``
+- [AlONE](https://github.com/PRONOI) ``Dev``
 - [AMAN](https://github.com/AMANTYA1) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
