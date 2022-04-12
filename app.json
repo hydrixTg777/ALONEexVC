@@ -1,7 +1,7 @@
 {
-    "name": "ʀʏᴛʜᴍx ʙᴏᴛ",
+    "name": "ᴀʟᴏɴᴇx ʙᴏᴛ",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
-    "logo": "https://telegra.ph/file/c1ba55b4d8c5f607a04b3.jpg",
+    "logo": "https://telegra.ph/file/cb9e8807891b849c1065f.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -12,8 +12,8 @@
         "pyrogram"
     ],
     "website": "https://t.me/DevilsHeavenMF",
-    "repository": "https://github.com/RahulSingh1025/RYTHM",
-    "success_url": "https://t.me/anonymous_was_bot",
+    "repository": "https://github.com/PRONOI/ALONEexVC",
+    "success_url": "https://t.me/ALONExBOY",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
