@@ -52,7 +52,7 @@
 
 
 ```console
-root@linux~ $ git clone https://github.com/RahulSingh1025/RYTHM
+root@linux~ $ git clone https://github.com/PRONOI/ALONEexVC
 root@linux~ $ cd RYTHM
 root@linux~ $ pip3 install -U -r requirements.txt
 root@linux~ $ cp example.env .env
