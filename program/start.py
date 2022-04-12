@@ -65,15 +65,15 @@ async def start_(c: Client, message: Message):
     user_id = message.from_user.id
     await add_served_user(user_id)
     await message.reply_text(
-        f"""💔 **ʜᴇʏ {message.from_user.mention()} !\n
-   💞 ɪ ᴀᴍ [{me_bot.first_name}](https://t.me/{me_bot.username}) ᴀ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴍᴀᴅᴇ ғᴏʀ ᴩʟᴀʏɪɴɢ ᴀᴜᴅɪᴏs ᴀɴᴅ ᴠɪᴅᴇᴏs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠɪᴅᴇᴏᴄʜᴀᴛs.
+        f"""🖤 **ʜᴇʏ {message.from_user.mention()} !\n
+   ✨ ɪ ᴀᴍ [{me_bot.first_name}](https://t.me/{me_bot.username}) ᴀ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴍᴀᴅᴇ ғᴏʀ ᴩʟᴀʏɪɴɢ ᴀᴜᴅɪᴏs ᴀɴᴅ ᴠɪᴅᴇᴏs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠɪᴅᴇᴏᴄʜᴀᴛs.
 
-🥱 ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴀʀᴇ ʟɪsᴛᴇᴅ ɪɴ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ, ᴄʟɪᴄᴋ ᴏɴ ɪᴛ ᴛᴏ ᴋɴᴏᴡ ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.** 🥱
+ 📍 ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴀʀᴇ ʟɪsᴛᴇᴅ ɪɴ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ, ᴄʟɪᴄᴋ ᴏɴ ɪᴛ ᴛᴏ ᴋɴᴏᴡ ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.** 🥱
 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🥺 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🥺", url=f"https://t.me/{me_bot.username}?startgroup=true")
+                    InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ➕", url=f"https://t.me/{me_bot.username}?startgroup=true")
                 ],[
                     InlineKeyboardButton("• ʜᴇʟᴩ •", callback_data="command_list"),
                     InlineKeyboardButton("• ᴀʙᴏᴜᴛ •", callback_data="about_me") 
