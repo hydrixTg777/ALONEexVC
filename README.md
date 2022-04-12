@@ -43,7 +43,7 @@
 <summary><b>• ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ •</b></summary>
 <br>
 
-> FUCK OFF HEROKU 🤕
+> **FUCK OFF HEROKU**🤕
 
 <h4>Click the button below to deploy Bot on Heroku!</h4>    
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/PRONOI/ALONEexVC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
