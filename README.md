@@ -67,12 +67,12 @@ root@linux~ $ python3 main.py
 
 ## Contact & Support
 
-<a href="https://t.me/ALONE_SUPPORT"><img src="https://img.shields.io/badge/Support-%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/ALONExBOY"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ALONE_SUPPORT"><img src="https://img.shields.io/badge/Support-%20ᴄʜᴀɴɴᴇʟ-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/ALONExBOY"><img src="https://img.shields.io/badge/Contact-%20ᴅᴇᴠᴇʟᴏᴘᴇʀ-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License](https://github.com/RahulSingh1025/RYTHM/blob/main/LICENSE) See `LICENSE.md` for more information.
+Distributed under the [GNU General Public License v3.0 License](https://github.com/PRONOI/ALONEexVC/blob/main/LICENSE) See `LICENSE.md` for more information.
 
 ## Credits
 
