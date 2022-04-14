@@ -36,7 +36,7 @@ async def start_set(_, query: CallbackQuery):
                     InlineKeyboardButton("• ᴍᴀɪɴᴛᴀɪɴᴇʀ •", url=f"https://t.me/{OWNER_USERNAME}"),
                     InlineKeyboardButton("• sᴜᴩᴩᴏʀᴛ •", url=f"https://t.me/{GROUP_SUPPORT}")
                 ],[
-                    InlineKeyboardButton("• sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ •", url="https://telegra.ph/file/3d245c9fa9e2c7851cc8f.jpg")
+                    InlineKeyboardButton("• sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ •", url="ALONE_SUPPORT")
                 ],
             ]
         ),
