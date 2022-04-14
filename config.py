@@ -26,8 +26,8 @@ UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "ALONE_SUPPORT")
 # database, decorators, handlers mandatory vars
 MONGODB_URL = getenv("mongodb+srv://Shykiller:Shykiller@cluster0.bfhl1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! . ^ • * # ? ~ $").split())
-OWNER_ID = list(map(int, getenv("OWNER_ID").split()))
-SUDO_USERS = list(map(int, getenv("SUDO_USERS").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "1063334882").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1063334882").split()))
 
 # image resources vars
 IMG_1 = getenv("IMG_1", "https://telegra.ph/file/22f95cbff261624946770.jpg")
