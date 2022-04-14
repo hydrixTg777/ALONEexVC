@@ -53,7 +53,7 @@
 
 ```console
 root@linux~ $ git clone https://github.com/PRONOI/ALONEexVC
-root@linux~ $ cd RYTHM
+root@linux~ $ cd ALONEexVC
 root@linux~ $ pip3 install -U -r requirements.txt
 root@linux~ $ cp example.env .env
 ```
