@@ -8,7 +8,7 @@ load_dotenv()
 # client vars
 API_ID = int(getenv("API_ID", "6204272"))
 API_HASH = getenv("API_HASH", "f935feb4ce106e741675d2e0894c6155")
-BOT_TOKEN = getenv("BOT_TOKEN", "5095497896:AAHexrErtazVn15KyFwNYLJ2OMkgbzUzhQU")
+BOT_TOKEN = getenv("BOT_TOKEN", "")
 SESSION_NAME = getenv("SESSION_NAME", "BQBygAFtnpzGLax4XkOosc7VJ9PrUw01ztOEw_2X3diPamtrdF3luU5Ia09AWH2N08PX-pvZYTBEqFTkUyAQMfe9RCByVeYyp1iF5RvvRdcjKoxjituFkFNmoVLKE1nRJ2d8pqqVdqeMffFdDMZuC9IPClmrbYHS9p1FrLrkBeCuPdjMZg6cERuGMFRFXlOlBSfClRsuNusK13zJ7Nxg09zCk3Qjw7wsyjVy7NySth3N6rpXcATX91Llu5N63teQSkS7669n9fzWwsS2rPV08HMmWQhxKej9rDFplajw2kgun3sODr4PuMabpDKlqA-SNJZJAUL8DTlOmPQuJf5nifeWcKBElAA")
 
 # mandatory vars
@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME", "ALONEexROBOT")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/PRONOI/ALONEexVC")
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "master")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
-GROUP_SUPPORT = getenv("GROUP_SUPPORT", "LOVExWORLD_OP")
+GROUP_SUPPORT = getenv("GROUP_SUPPORT", "")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "ALONE_SUPPORT")
 
 # database, decorators, handlers mandatory vars
