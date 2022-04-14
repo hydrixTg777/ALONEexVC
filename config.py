@@ -6,25 +6,25 @@ admins = {}
 load_dotenv()
 
 # client vars
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
-BOT_TOKEN = getenv("BOT_TOKEN")
+API_ID = int(getenv("API_ID", "6204272"))
+API_HASH = getenv("API_HASH", "f935feb4ce106e741675d2e0894c6155")
+BOT_TOKEN = getenv("BOT_TOKEN", "5095497896:AAHexrErtazVn15KyFwNYLJ2OMkgbzUzhQU")
 SESSION_NAME = getenv("SESSION_NAME", "session")
 
 # mandatory vars
-OWNER_USERNAME = getenv("OWNER_USERNAME")
-ALIVE_NAME = getenv("ALIVE_NAME")
-ASSISTANT_NAME = getenv("ASSISTANT_NAME", "XD")
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001509525202"))
-BOT_USERNAME = getenv("BOT_USERNAME")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/AMANTYA1/RYTHM")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "ALONExBOY")
+ALIVE_NAME = getenv("ALIVE_NAME", "ALONE")
+ASSISTANT_NAME = getenv("ASSISTANT_NAME", "ALONEaxASSISTANT")
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001563186923"))
+BOT_USERNAME = getenv("BOT_USERNAME", "ALONEexROBOT")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/PRONOI/ALONEexVC")
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "master")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
-GROUP_SUPPORT = getenv("GROUP_SUPPORT", "godzilla_chatting")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "BotDuniyaXD")
+GROUP_SUPPORT = getenv("GROUP_SUPPORT", "LOVExWORLD_OP")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "ALONE_SUPPORT")
 
 # database, decorators, handlers mandatory vars
-MONGODB_URL = getenv("MONGODB_URL")
+MONGODB_URL = getenv("mongodb+srv://Shykiller:Shykiller@cluster0.bfhl1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! . ^ • * # ? ~ $").split())
 OWNER_ID = list(map(int, getenv("OWNER_ID").split()))
 SUDO_USERS = list(map(int, getenv("SUDO_USERS").split()))
