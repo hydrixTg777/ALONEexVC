@@ -74,7 +74,6 @@ root@linux~ $ python3 main.py
 
 Distributed under the [GNU General Public License v3.0 License](https://github.com/PRONOI/ALONEexVC/blob/main/LICENSE) See `LICENSE.md` for more information.
 
-## Credits
+## DEV
 
 - [AlONE](https://github.com/PRONOI) ``Dev``
-- [AMAN](https://github.com/AMANTYA1) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
