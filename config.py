@@ -6,10 +6,10 @@ admins = {}
 load_dotenv()
 
 # client vars
-API_ID = int(getenv("API_ID", "6204272"))
-API_HASH = getenv("API_HASH", "f935feb4ce106e741675d2e0894c6155")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
-SESSION_NAME = getenv("SESSION_NAME", "BQBygAFtnpzGLax4XkOosc7VJ9PrUw01ztOEw_2X3diPamtrdF3luU5Ia09AWH2N08PX-pvZYTBEqFTkUyAQMfe9RCByVeYyp1iF5RvvRdcjKoxjituFkFNmoVLKE1nRJ2d8pqqVdqeMffFdDMZuC9IPClmrbYHS9p1FrLrkBeCuPdjMZg6cERuGMFRFXlOlBSfClRsuNusK13zJ7Nxg09zCk3Qjw7wsyjVy7NySth3N6rpXcATX91Llu5N63teQSkS7669n9fzWwsS2rPV08HMmWQhxKej9rDFplajw2kgun3sODr4PuMabpDKlqA-SNJZJAUL8DTlOmPQuJf5nifeWcKBElAA")
+SESSION_NAME = getenv("SESSION_NAME", "")
 
 # mandatory vars
 OWNER_USERNAME = getenv("OWNER_USERNAME", "ALONExBOY")
@@ -24,7 +24,7 @@ GROUP_SUPPORT = getenv("GROUP_SUPPORT", "")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "ALONE_SUPPORT")
 
 # database, decorators, handlers mandatory vars
-MONGODB_URL = getenv("mongodb+srv://Shykiller:Shykiller@cluster0.bfhl1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+MONGODB_URL = getenv("")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! . ^ • * # ? ~ $").split())
 OWNER_ID = list(map(int, getenv("OWNER_ID", "1063334882").split()))
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1063334882").split()))
