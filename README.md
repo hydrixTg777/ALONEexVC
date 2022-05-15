@@ -16,7 +16,7 @@
 
 > Click on buttons to Expand!
 <details>
-<summary><b>• ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs •</b></summary>
+<summary><b>• ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs .•</b></summary>
 <br>
 
 - [Python3.9](https://www.python.org/downloads/release/python-390/)
